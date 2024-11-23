@@ -1,0 +1,6 @@
+﻿  dz.c
+D:\projects\lab5\dz\dz.c(24,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab5\dz\dz.c(25,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab5\dz\dz.c(26,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab5\dz\dz.c(27,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  dz.vcxproj -> D:\projects\lab5\lab5\x64\Debug\dz.exe

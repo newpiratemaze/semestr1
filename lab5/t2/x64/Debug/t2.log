@@ -1,0 +1,7 @@
+﻿  t2.c
+D:\projects\lab5\t2\t2.c(13,12): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab5\t2\t2.c(19,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab5\t2\t2.c(21,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab5\t2\t2.c(23,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab5\t2\t2.c(29,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  t2.vcxproj -> D:\projects\lab5\lab5\x64\Debug\t2.exe
