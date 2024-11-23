@@ -1,0 +1,7 @@
+﻿  n2.c
+D:\projects\n2a\n2.c(18,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\projects\n2a\n2.c(19,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\projects\n2a\n2.c(20,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\projects\n2a\n2.c(21,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\projects\n2a\n2.c(22,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  n2a.vcxproj -> D:\projects\lab3\x64\Debug\n2a.exe
