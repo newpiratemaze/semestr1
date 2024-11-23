@@ -1,0 +1,3 @@
+﻿  t2.c
+D:\projects\lab4\t2\t2.c(12,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  t2.vcxproj -> D:\projects\lab4\lab4\x64\Debug\t2.exe
