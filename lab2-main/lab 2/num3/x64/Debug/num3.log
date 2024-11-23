@@ -1,0 +1,4 @@
+﻿  n3.c
+D:\projects\num3\n3.c(8,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\num3\n3.c(8,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  num3.vcxproj -> D:\projects\lab2_242_2\x64\Debug\num3.exe
