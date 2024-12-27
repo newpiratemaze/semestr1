@@ -1,0 +1,6 @@
+| Material||Length||Width||Height|
+|    Steel||     6||    3||     2|
+|Aluminium||     8||    4||     2|
+|     Wood||    10||    5||     3|
+|    Metal||     9||    6||     3|
+|  Plastic||    12||    5||     4|
