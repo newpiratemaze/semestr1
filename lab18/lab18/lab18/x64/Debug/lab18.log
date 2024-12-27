@@ -1,0 +1,8 @@
+﻿  n1.c
+D:\projects\lab18\lab18\n1.c(25,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab18\lab18\n1.c(26,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab18\lab18\n1.c(28,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab18\lab18\n1.c(60,1): warning C4716: quarter: должна возвращать значение
+D:\projects\lab18\lab18\n1.c(30,1): warning C4716: dist: должна возвращать значение
+D:\projects\lab18\lab18\n1.c(40,1): warning C4716: midpoint: должна возвращать значение
+  lab18.vcxproj -> D:\projects\lab18\lab18\x64\Debug\lab18.exe

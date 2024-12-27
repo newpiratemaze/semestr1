@@ -1,0 +1,4 @@
+﻿  dz.c
+D:\projects\lab18\dz\dz.c(31,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\projects\lab18\dz\dz.c(74,15): warning C4305: инициализация: усечение из "__int64" в "int"
+  dz.vcxproj -> D:\projects\lab18\lab18\x64\Debug\dz.exe
