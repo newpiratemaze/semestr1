@@ -1,0 +1,5 @@
+﻿  n2.c
+D:\projects\lab12\n2\n2.c(16,9): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "float *"
+D:\projects\lab12\n2\n2.c(16,9): warning C4313: printf: конфликт "%x" в строке формата с аргументом 1 типа "float *"
+D:\projects\lab12\n2\n2.c(12,13): warning C4305: инициализация: усечение из "double" в "float"
+  n2.vcxproj -> D:\projects\lab12\lab12\x64\Debug\n2.exe

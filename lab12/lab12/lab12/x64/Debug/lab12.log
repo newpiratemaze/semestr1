@@ -1,0 +1,10 @@
+﻿  n1.c
+D:\projects\lab12\lab12\n1.c(13,9): warning C4477: "printf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "size_t"
+      D:\projects\lab12\lab12\n1.c(13,9):
+      рекомендуется использовать "%zu" в строке форматирования
+  
+D:\projects\lab12\lab12\n1.c(15,9): warning C4477: "printf": в строке форматирования "%lu" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "size_t"
+      D:\projects\lab12\lab12\n1.c(15,9):
+      рекомендуется использовать "%zu" в строке форматирования
+  
+  lab12.vcxproj -> D:\projects\lab12\lab12\x64\Debug\lab12.exe
