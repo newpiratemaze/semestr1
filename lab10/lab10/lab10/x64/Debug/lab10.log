@@ -1,0 +1,9 @@
+﻿  n1.c
+D:\projects\lab10\lab10\n1.c(34,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\lab10\n1.c(35,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\lab10\lab10\n1.c(42,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\lab10\n1.c(53,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\lab10\n1.c(54,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\lab10\n1.c(55,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\lab10\n1.c(49,1): warning C4715: func1: значение возвращается не при всех путях выполнения
+  lab10.vcxproj -> D:\projects\lab10\lab10\x64\Debug\lab10.exe

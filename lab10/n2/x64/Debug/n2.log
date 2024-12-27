@@ -1,0 +1,12 @@
+﻿  n2.c
+D:\projects\lab10\n2\n2.c(30,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(29,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(31,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(32,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(33,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(47,48): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(109,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(110,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(112,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab10\n2\n2.c(113,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  n2.vcxproj -> D:\projects\lab10\lab10\x64\Debug\n2.exe
