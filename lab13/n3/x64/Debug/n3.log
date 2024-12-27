@@ -1,0 +1,3 @@
+﻿  n3.c
+D:\projects\lab13\n3\n3.c(15,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  n3.vcxproj -> D:\projects\lab13\lab13\x64\Debug\n3.exe

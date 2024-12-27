@@ -1,0 +1,6 @@
+﻿  n1.c
+D:\projects\lab13\lab13\n1.c(25,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\projects\lab13\lab13\n1.c(42,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\lab13\lab13\n1.c(54,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\lab13\lab13\n1.c(18,6): warning C4101: count: неиспользованная локальная переменная
+  lab13.vcxproj -> D:\projects\lab13\lab13\x64\Debug\lab13.exe
