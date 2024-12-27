@@ -1,0 +1,11 @@
+﻿  n4.c
+D:\projects\lab12\n4\n4.c(10,20): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,32): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,40): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,44): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,48): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,52): warning C4305: инициализация: усечение из "double" в "float"
+D:\projects\lab12\n4\n4.c(10,56): warning C4305: инициализация: усечение из "double" в "float"
+  n4.vcxproj -> D:\projects\lab12\lab12\x64\Debug\n4.exe
