@@ -1,0 +1,16 @@
+﻿  n3.c
+D:\projects\lab14\n3.c\n3.c(45,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+      D:\projects\lab14\n3.c\n3.c(45,10):
+      рекомендуется использовать "%lf" в строке форматирования
+  
+D:\projects\lab14\n3.c\n3.c(60,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\projects\lab14\n3.c\n3.c(74,29): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\projects\lab14\n3.c\n3.c(74,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\lab14\n3.c\n3.c(75,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab14\n3.c\n3.c(117,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\projects\lab14\n3.c\n3.c(129,10): warning C4101: ptr_i: неиспользованная локальная переменная
+D:\projects\lab14\n3.c\n3.c(109,1): warning C4716: sum_elem: должна возвращать значение
+D:\projects\lab14\n3.c\n3.c(83,1): warning C4716: fill_elem: должна возвращать значение
+D:\projects\lab14\n3.c\n3.c(91,1): warning C4716: put_elem: должна возвращать значение
+D:\projects\lab14\n3.c\n3.c(123,1): warning C4715: find_elem: значение возвращается не при всех путях выполнения
+  n3.c.vcxproj -> D:\projects\lab14\lab14\x64\Debug\n3.c.exe

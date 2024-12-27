@@ -1,0 +1,5 @@
+﻿  dz.c
+D:\projects\lab14\dz\dz.c(43,1): warning C4716: put: должна возвращать значение
+D:\projects\lab14\dz\dz.c(35,1): warning C4716: fill: должна возвращать значение
+D:\projects\lab14\dz\dz.c(53,1): warning C4716: count: должна возвращать значение
+  dz.vcxproj -> D:\projects\lab14\lab14\x64\Debug\dz.exe

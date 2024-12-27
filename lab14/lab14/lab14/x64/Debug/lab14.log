@@ -1,0 +1,7 @@
+﻿  n1.c
+D:\projects\lab14\lab14\n1.c(45,29): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\projects\lab14\lab14\n1.c(45,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\lab14\lab14\n1.c(46,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab14\lab14\n1.c(62,1): warning C4716: put_elem: должна возвращать значение
+D:\projects\lab14\lab14\n1.c(54,1): warning C4716: fill_elem: должна возвращать значение
+  lab14.vcxproj -> D:\projects\lab14\lab14\x64\Debug\lab14.exe

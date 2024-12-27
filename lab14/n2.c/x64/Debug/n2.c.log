@@ -1,0 +1,9 @@
+﻿  n2.c
+D:\projects\lab14\n2.c\n2.c(69,29): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\projects\lab14\n2.c\n2.c(69,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\projects\lab14\n2.c\n2.c(70,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab14\n2.c\n2.c(104,1): warning C4716: sum_elem: должна возвращать значение
+D:\projects\lab14\n2.c\n2.c(86,1): warning C4716: put_elem: должна возвращать значение
+D:\projects\lab14\n2.c\n2.c(78,1): warning C4716: fill_elem: должна возвращать значение
+D:\projects\lab14\n2.c\n2.c(118,1): warning C4715: find_elem: значение возвращается не при всех путях выполнения
+  n2.c.vcxproj -> D:\projects\lab14\lab14\x64\Debug\n2.c.exe
