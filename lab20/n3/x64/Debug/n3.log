@@ -1,0 +1,5 @@
+﻿  n3.c
+D:\projects\lab20\n3\n3.c(17,22): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+D:\projects\lab20\n3\n3.c(19,8): warning C4013: isspace: нет определения; предполагается "extern" с возвратом типа "int"
+D:\projects\lab20\n3\n3.c(9,7): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "char [1]"
+  n3.vcxproj -> D:\projects\lab20\lab20\x64\Debug\n3.exe
