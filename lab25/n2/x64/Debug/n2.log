@@ -1,0 +1,6 @@
+﻿  n2.c
+D:\projects\lab25\n2\n2.c(10,1): warning C4716: rand10: должна возвращать значение
+D:\projects\lab25\n2\n2.c(42,1): warning C4716: rrand_double: должна возвращать значение
+D:\projects\lab25\n2\n2.c(33,1): warning C4716: rrand10: должна возвращать значение
+D:\projects\lab25\n2\n2.c(21,1): warning C4716: rand_double: должна возвращать значение
+  n2.vcxproj -> D:\projects\lab25\lab25\x64\Debug\n2.exe
