@@ -1,0 +1,4 @@
+﻿  n3.c
+D:\projects\lab22\n3\n3.c(24,143): warning C4013: abs: нет определения; предполагается "extern" с возвратом типа "int"
+D:\projects\lab22\n3\n3.c(25,1): warning C4716: findmax: должна возвращать значение
+  n3.vcxproj -> D:\projects\lab22\lab22\x64\Debug\n3.exe

@@ -1,0 +1,20 @@
+﻿  n2.c
+D:\projects\lab22\n2\n2.c(28,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(29,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(30,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(44,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(45,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(50,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(51,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(92,9): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(111,98): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      D:\projects\lab22\n2\n2.c(111,98):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 3
+  
+D:\projects\lab22\n2\n2.c(96,34): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\projects\lab22\n2\n2.c(13,1): warning C4716: printrestabul: должна возвращать значение
+D:\projects\lab22\n2\n2.c(22,1): warning C4716: printres: должна возвращать значение
+D:\projects\lab22\n2\n2.c(39,1): warning C4715: yx: значение возвращается не при всех путях выполнения
+D:\projects\lab22\n2\n2.c(112,1): warning C4716: golden_section: должна возвращать значение
+D:\projects\lab22\n2\n2.c(67,1): warning C4715: vx: значение возвращается не при всех путях выполнения
+  n2.vcxproj -> D:\projects\lab22\lab22\x64\Debug\n2.exe

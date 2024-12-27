@@ -1,0 +1,15 @@
+﻿  n1.c
+D:\projects\lab22\lab22\n1.c(14,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(15,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(16,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(26,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(27,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(31,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(32,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(55,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(56,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(57,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\projects\lab22\lab22\n1.c(21,1): warning C4715: yx: значение возвращается не при всех путях выполнения
+D:\projects\lab22\lab22\n1.c(10,1): warning C4716: printres: должна возвращать значение
+D:\projects\lab22\lab22\n1.c(48,1): warning C4715: vx: значение возвращается не при всех путях выполнения
+  lab22.vcxproj -> D:\projects\lab22\lab22\x64\Debug\lab22.exe
