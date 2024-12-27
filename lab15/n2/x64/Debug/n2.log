@@ -1,0 +1,10 @@
+﻿  n2.c
+D:\projects\lab15\n2\n2.c(104,1): warning C4716: count_str: должна возвращать значение
+D:\projects\lab15\n2\n2.c(88,1): warning C4716: mid: должна возвращать значение
+D:\projects\lab15\n2\n2.c(61,1): warning C4716: put: должна возвращать значение
+D:\projects\lab15\n2\n2.c(73,1): warning C4716: trans: должна возвращать значение
+D:\projects\lab15\n2\n2.c(49,1): warning C4716: fill: должна возвращать значение
+D:\projects\lab15\n2\n2.c(122,1): warning C4716: count_stolb: должна возвращать значение
+D:\projects\lab15\n2\n2.c(142,1): warning C4716: count_str_stolb: должна возвращать значение
+D:\projects\lab15\n2\n2.c(161,1): warning C4716: findmax: должна возвращать значение
+  n2.vcxproj -> D:\projects\lab15\lab15\x64\Debug\n2.exe

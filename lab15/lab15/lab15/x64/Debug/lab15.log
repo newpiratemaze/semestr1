@@ -1,0 +1,8 @@
+﻿  n1.c
+D:\projects\lab15\lab15\n1.c(28,3): warning C4098: main: функция типа "void", возвращающая значение
+D:\projects\lab15\lab15\n1.c(33,3): warning C4098: main: функция типа "void", возвращающая значение
+D:\projects\lab15\lab15\n1.c(17,6): warning C4101: array1: неиспользованная локальная переменная
+D:\projects\lab15\lab15\n1.c(263,1): warning C4716: fill: должна возвращать значение
+D:\projects\lab15\lab15\n1.c(308,1): warning C4716: findminandmax: должна возвращать значение
+D:\projects\lab15\lab15\n1.c(276,1): warning C4716: put: должна возвращать значение
+  lab15.vcxproj -> D:\projects\lab15\lab15\x64\Debug\lab15.exe
