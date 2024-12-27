@@ -1,0 +1,12 @@
+﻿  n1.c
+D:\projects\lab23\lab23\list.h(36,20): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+  (компиляция исходного файла "n1.c")
+  
+D:\projects\lab23\lab23\list.h(43,20): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+  (компиляция исходного файла "n1.c")
+  
+D:\projects\lab23\lab23\list.h(59,6): warning C4028: формальный параметр 2 отличается от объявления
+  (компиляция исходного файла "n1.c")
+  
+D:\projects\lab23\lab23\list.h(56,1): warning C4716: length: должна возвращать значение
+  lab23.vcxproj -> D:\projects\lab23\lab23\x64\Debug\lab23.exe
