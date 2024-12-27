@@ -1,0 +1,7 @@
+﻿  n1.c
+D:\projects\lab16\lab16\n1.c(54,3): warning C4098: main: функция типа "void", возвращающая значение
+D:\projects\lab16\lab16\n1.c(61,3): warning C4098: main: функция типа "void", возвращающая значение
+D:\projects\lab16\lab16\n1.c(21,1): warning C4716: calc_elements: должна возвращать значение
+D:\projects\lab16\lab16\n1.c(12,1): warning C4716: fill_elements: должна возвращать значение
+D:\projects\lab16\lab16\n1.c(35,1): warning C4716: put_elements: должна возвращать значение
+  lab16.vcxproj -> D:\projects\lab16\lab16\x64\Debug\lab16.exe

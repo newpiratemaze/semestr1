@@ -1,0 +1,9 @@
+﻿  n2.c
+D:\projects\lab16\n2\n2.c(18,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+D:\projects\lab16\n2\n2.c(127,3): warning C4098: main: функция типа "void", возвращающая значение
+D:\projects\lab16\n2\n2.c(134,3): warning C4098: main: функция типа "void", возвращающая значение
+D:\projects\lab16\n2\n2.c(109,1): warning C4716: delete_k: должна возвращать значение
+D:\projects\lab16\n2\n2.c(35,1): warning C4716: put_elements: должна возвращать значение
+D:\projects\lab16\n2\n2.c(12,1): warning C4716: fill_elements: должна возвращать значение
+D:\projects\lab16\n2\n2.c(21,1): warning C4716: calc_elements: должна возвращать значение
+  n2.vcxproj -> D:\projects\lab16\lab16\x64\Debug\n2.exe
